@@ -1,2 +1,6 @@
 # TechnikiWizualizacjiDanych_McFacts
-Projekt nr 1 na przedmiot Techniki Wizualizacji Danych (3 semestr studiów Inżynieria i Analiza Danych wydziału MiNI PW). Nazwa projektu: McFacts, autorzy: Anna Ostrowska, Gabriela Majstrak, Jan Opala. 
+Project No. 1 (P1: Food) for the subject of Data Visualization Techniques (3rd semester of the course Inżynieria i Analiza Danych of MiNI PW faculty). 
+Name of the project: ,,McFacts".
+Authors: Anna Ostrowska, Gabriela Majstrak, Jan Opala. 
+
+The repository contains source codes, plots and the poster in electronic form.
