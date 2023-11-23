@@ -9,3 +9,7 @@ Sources:
 https://www.kaggle.com/datasets/stephenofarrell/cost-of-living
 https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts
 https://pl.wikipedia.org
+https://www.kaggle.com/datasets/joebeachcapital/mcdonalds-yelp-reviews
+https://www.kaggle.com/datasets/samyukthamurali/yelp-businesscsv
+https://en.wikipedia.org/wiki/List_of_countries_with_McDonald%27s_restaurants
+
