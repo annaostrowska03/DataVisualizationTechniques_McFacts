@@ -18,3 +18,7 @@ https://www.kaggle.com/datasets/samyukthamurali/yelp-businesscsv
 
 https://en.wikipedia.org/wiki/List_of_countries_with_McDonald%27s_restaurants
 
+https://www.kaggle.com/datasets/joebeachcapital/the-economists-big-mac-index?select=big-mac-adjusted-index.csv
+
+https://www.kaggle.com/datasets/zedataweaver/global-salary-data
+
