@@ -4,3 +4,8 @@ Name of the project: ,,McFacts".
 Authors: Anna Ostrowska, Gabriela Majstrak, Jan Opala. 
 
 The repository contains source codes, plots and the poster in electronic form.
+
+Sources:
+https://www.kaggle.com/datasets/stephenofarrell/cost-of-living
+https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts
+https://pl.wikipedia.org
