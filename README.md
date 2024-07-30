@@ -3,7 +3,7 @@ Project No. 1 (P1: Food) for the subject of Data Visualization Techniques (3rd s
 Name of the project: ,,McFacts".
 Authors: Anna Ostrowska, Gabriela Majstrak, Jan Opala. 
 
-The goal of the project was to make a poster on the topic of “nutrition” based on data from the Internet using various data visualization techniques, such as different types of charts. To do this, we searched the Internet, found interesting data and, using R, created many different plots. Using Canva, we created several posters with these plots and other elements, and we presented the final version of the poster to the class. This version in electronic form can be found in the file “Ostrowska_Majstrak_Opala.pdf” on this repository.
+The goal of the project was to make a poster on the topic of “nutrition” based on data from the Internet using various data visualization techniques, such as different types of charts. To do this, we searched the Internet, found interesting data and, using R, created many different plots. Using Canva, we created several posters with these plots and other elements, and we decided on the final version of the poster. This version in electronic form can be found in the file “Ostrowska_Majstrak_Opala.pdf” on this repository.
 
 The repository also contains source codes and plots.
 
